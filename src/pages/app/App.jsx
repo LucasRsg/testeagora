@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+import './src/pages/app/App.css';
+
+export default function App() {
   return (
     <div className="App">
      <h1>Estudos de React JS</h1>
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App;
+
