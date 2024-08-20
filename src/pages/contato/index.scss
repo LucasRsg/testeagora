@@ -1,0 +1,24 @@
+.pagina-contato{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+
+    .icone{
+        width: 110px;
+        align-self: center;
+    
+    }
+    
+    
+    
+    .voltar{
+        font-size: 32px ;
+    }
+    
+    
+    .titulo{
+        color: aqua;
+    }
+    
+}

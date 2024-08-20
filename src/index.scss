@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+Khitan+Small+Script&family=Playwrite+AR:wght@100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+* {
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Noto Serif Khitan Small Script";
+}
+
+
+.pagina{
+  background-color: #fafafa;
+  min-height: 100hv;
+  .cabecalho{
+    background-color: #dbb9b9;
+    padding: 30px 60px;
+    
+
+    
+    padding: 30px;
+
+
+    h1{
+      font : 600 32px 'Poppins';
+      color : #606060;
+    }
+
+
+ 
+  }
+  
+  .secao{
+    background-color: #f7f6f6;
+    padding: 30px;
+    box-shadow: 0px 0px 15px 2px #383636;
+    margin: 50px 60px;
+    min-width: 600px ;
+    border-radius: 5px;
+    max-width: 1000px;
+    font : 400 20px 'Poppins';
+
+    h1{
+      font : 600 28px 'Poppins';
+      color : #353434;
+      margin-bottom: 30px;
+
+
+
+    }
+    input, select{
+      border-color: #dfdfdf;
+      padding: 10px;
+      font : 400 20px 'Poppins';
+      outline: none;
+      border-radius: 3px;
+      min-width: 400px;
+      color:#606060;
+      border-style: solid;
+      margin: 15px;
+    }
+
+    button{
+
+      padding: 10px;
+      font : 400 20px 'Poppins';
+      outline: none;
+      border-radius: 3px;
+      background-color: #0084ff;
+      color: #ffff;
+      border: none;
+
+      padding: 10px 25px;
+      margin-left: 5px;
+
+      
+
+    }
+
+   
+  }
+
+
+
+}
